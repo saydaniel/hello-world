@@ -1,2 +1,2 @@
-# hello-world
+# personal blog
 just another repository
